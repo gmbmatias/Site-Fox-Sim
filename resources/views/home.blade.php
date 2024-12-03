@@ -136,7 +136,7 @@
                   <div class="image_2"><img src="images/img-2.png"></div>
                </div>
                <div class="col-md-6">
-                  <h1 class="about_taital">About <span class="us_text">Us</span></h1>
+                  <h1 class="about_taital">N/A <span class="us_text">Us</span></h1>
                   <p class="about_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem </p>
                   <div class="read_bt_1"><a href="#">Read More</a></div>
                </div>
@@ -219,13 +219,13 @@
          <div class="container">
             <div class="row">
                <div class="col-md-6">
-                  <h1 class="newsletter_text">Subscribe Now </h1>
+                  <h1 class="newsletter_text">N/A </h1>
                   <p class="tempor_text">dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim </p>
                </div>
                <div class="col-md-6">
                   <div class="mail_bt_main">
                      <input type="text" class="mail_text" placeholder="Enter Tour Mail" name="Enter Tour Mail">
-                     <div class="subscribe_bt"><a href="#">SUBSCRIBE</a></div>
+                     <div class="subscribe_bt"><a href="#">N/A</a></div>
                   </div>
                </div>
             </div>
@@ -365,15 +365,15 @@
                      <div class="footer_menu">
                         <ul>
                            <li><a href="index.html">Home</a></li>
-                           <li><a href="about.html">About</a></li>
-                           <li><a href="services.html">Services</a></li>
-                           <li><a href="contact.html">Contact Us</a></li>
+                           <li><a href="about.html">Sobre</a></li>
+                           <li><a href="services.html">Serviços</a></li>
+                           <li><a href="contact.html">N/A</a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-lg-3 col-sm-6">
-                     <h4 class="link_text">web design</h4>
-                     <p class="footer_text">Lorem ipsum dolor sit amet, consectetur adipiscinaliquaL oreadipiscing </p>
+                     <h4 class="link_text">N/A</h4>
+                     <p class="footer_text">N/A</p>
                   </div>
                   <div class="col-lg-3 col-sm-6">
                      <h4 class="link_text">social media</h4>
@@ -398,7 +398,7 @@
       <!--copyright section start -->
       <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">Copyright 2023 All Right Reserved By <a href="https://html.design">Free Html Templates</a> Distributed by: <a href="https://themewagon.com">ThemeWagon</a></p>
+            <p class="copyright_text">Copyright <a href="https://html.design">Gustavo Matias</a> Distributed by: <a href="https://themewagon.com">ThemeWagon</a></p>
          </div>
       </div>
       <!--copyright section end -->
