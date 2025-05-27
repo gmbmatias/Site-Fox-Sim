@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Fox Sim</title>
+      <title>Fox Sim | Simulação</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -138,7 +138,7 @@
                <div class="col-md-6">
                   <h1 class="about_taital">N/A <span class="us_text">Us</span></h1>
                   <p class="about_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem </p>
-                  <div class="read_bt_1"><a href="#">Read More</a></div>
+                  <div class="read_bt_1"><a href="#">Saiba mais</a></div>
                </div>
             </div>
          </div>
@@ -148,12 +148,12 @@
       <div class="services_section layout_padding">
          <div class="container">
             <h1 class="service_taital"><span class="our_text">Our</span> Services</h1>
-            <p class="service_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered </p>
+            <p class="service_text">N/A</p>
             <div class="services_section_2">
                <div class="row">
                   <div class="col-sm-4">
                      <div class="icon_1"><img src="images/icon-1.png"></div>
-                     <h4 class="design_text">Logo Design</h4>
+                     <h4 class="design_text">N/A</h4>
                      <p class="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing </p>
                      <div class="icon_1"><img src="images/icon-2.png"></div>
                      <h4 class="design_text">Web Development</h4>
