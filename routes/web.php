@@ -5,8 +5,11 @@ use App\Http\Controllers\SiteController;
 
 Route::get('/', function () {
     return view('home');
+});
 
 Route::get('/blade', function () {
-return view('blade');
-    
+    return view('blade');
+
 });
+
+routes/web.php
